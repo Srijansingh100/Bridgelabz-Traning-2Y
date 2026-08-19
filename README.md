@@ -37,4 +37,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2806-account-balance-after-rounded-purchase) |
 <!---LeetCode Topics End-->
