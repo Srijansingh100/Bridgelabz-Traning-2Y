@@ -27,6 +27,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 ## String
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0219-contains-duplicate-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
