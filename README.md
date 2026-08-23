@@ -26,6 +26,7 @@
 | ------- |
 | [0605-can-place-flowers](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | ------- |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1528-shuffle-string) |
+| [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Two Pointers
 |  |
@@ -56,6 +58,7 @@
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Stack
 |  |
@@ -73,4 +76,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0191-number-of-1-bits) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
