@@ -12,6 +12,7 @@
 | [0682-baseball-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0682-baseball-game) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [1528-shuffle-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1528-shuffle-string) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 | [0191-number-of-1-bits](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## String
 |  |
 | ------- |
