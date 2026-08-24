@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0485-max-consecutive-ones) |
@@ -24,6 +25,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
@@ -44,6 +46,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0088-merge-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## String Matching
