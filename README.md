@@ -40,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0345-reverse-vowels-of-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1528-shuffle-string) |
 | [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0088-merge-sorted-array) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0345-reverse-vowels-of-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2109-adding-spaces-to-a-string) |
 ## String Matching
