@@ -13,6 +13,7 @@
 | [0682-baseball-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0682-baseball-game) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [1528-shuffle-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1528-shuffle-string) |
+| [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2109-adding-spaces-to-a-string) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
@@ -66,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Stack
@@ -88,5 +90,22 @@
 ## Game Theory
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
