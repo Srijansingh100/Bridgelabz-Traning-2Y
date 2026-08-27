@@ -51,6 +51,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2109-adding-spaces-to-a-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3110-score-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
