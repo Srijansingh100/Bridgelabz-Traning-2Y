@@ -12,6 +12,7 @@
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0682-baseball-game) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
+| [1470-shuffle-the-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1528-shuffle-string) |
 | [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
