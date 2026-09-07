@@ -10,6 +10,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0682-baseball-game) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
@@ -104,6 +105,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0643-maximum-average-subarray-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
