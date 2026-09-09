@@ -93,6 +93,7 @@
 | [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3871-count-commas-in-range-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
