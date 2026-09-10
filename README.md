@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0605-can-place-flowers) |
@@ -107,6 +108,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0567-permutation-in-string) |
@@ -132,6 +134,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0209-minimum-size-subarray-sum) |
 | [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -147,4 +150,5 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
