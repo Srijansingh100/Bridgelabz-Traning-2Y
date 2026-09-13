@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0567-permutation-in-string) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0345-reverse-vowels-of-a-string) |
@@ -86,6 +88,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Sorting
 |  |
@@ -179,4 +182,16 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0835-image-overlap) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
