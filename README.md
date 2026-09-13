@@ -16,6 +16,7 @@
 | [0682-baseball-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1512-number-of-good-pairs) |
@@ -121,6 +122,7 @@
 | [0567-permutation-in-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -159,6 +162,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1004-max-consecutive-ones-iii) |
 ## Tree
 |  |
 | ------- |
