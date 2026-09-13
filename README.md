@@ -14,6 +14,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0682-baseball-game) |
+| [0904-fruit-into-baskets](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1512-number-of-good-pairs) |
@@ -32,6 +33,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
+| [0904-fruit-into-baskets](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [1512-number-of-good-pairs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -116,6 +118,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
