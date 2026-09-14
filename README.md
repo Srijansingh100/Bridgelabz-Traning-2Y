@@ -100,6 +100,7 @@
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1512-number-of-good-pairs) |
 | [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
@@ -196,4 +197,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
