@@ -102,6 +102,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1512-number-of-good-pairs) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -142,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
@@ -152,6 +154,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1004-max-consecutive-ones-iii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
@@ -201,4 +204,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0836-rectangle-overlap) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
