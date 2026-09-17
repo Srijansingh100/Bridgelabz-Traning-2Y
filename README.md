@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0567-permutation-in-string) |
