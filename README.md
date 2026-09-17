@@ -18,6 +18,7 @@
 | [0835-image-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -42,6 +43,7 @@
 | [0567-permutation-in-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1512-number-of-good-pairs) |
