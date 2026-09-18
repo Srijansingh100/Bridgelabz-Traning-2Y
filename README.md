@@ -47,6 +47,7 @@
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -58,6 +59,7 @@
 | [0011-container-with-most-water](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
@@ -77,6 +79,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0567-permutation-in-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1528-shuffle-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -107,6 +110,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
 |  |
 | ------- |
