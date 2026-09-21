@@ -30,6 +30,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2109-adding-spaces-to-a-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3524-find-x-value-of-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3524-find-x-value-of-array-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -121,6 +122,7 @@
 | [1927-sum-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1927-sum-game) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3524-find-x-value-of-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3875-construct-uniform-parity-array-i) |
@@ -161,6 +163,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1872-stone-game-viii) |
+| [3524-find-x-value-of-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3524-find-x-value-of-array-i) |
 ## Minimax
 |  |
 | ------- |
