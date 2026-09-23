@@ -17,6 +17,7 @@
 | [0682-baseball-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1386-cinema-seat-allocation) |
@@ -100,6 +101,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0567-permutation-in-string) |
+| [0905-sort-array-by-parity](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0905-sort-array-by-parity) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2109-adding-spaces-to-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2109-adding-spaces-to-a-string) |
 ## String Matching
@@ -112,6 +114,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Math
