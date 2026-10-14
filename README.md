@@ -125,6 +125,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0050-powx-n) |
 | [0836-rectangle-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0836-rectangle-overlap) |
 | [1512-number-of-good-pairs](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -254,4 +255,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
