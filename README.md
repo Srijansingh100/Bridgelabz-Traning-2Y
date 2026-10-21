@@ -35,6 +35,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3524-find-x-value-of-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3524-find-x-value-of-array-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0922-sort-array-by-parity-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
