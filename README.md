@@ -15,6 +15,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0905-sort-array-by-parity) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0739-daily-temperatures) |
 ## Simulation
 |  |
 | ------- |
@@ -262,4 +264,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0050-powx-n) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
