@@ -38,6 +38,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3524-find-x-value-of-array-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3875-construct-uniform-parity-array-i) |
+| [3934-smallest-unique-subarray](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3934-smallest-unique-subarray](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3934-smallest-unique-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -212,6 +214,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3934-smallest-unique-subarray](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3934-smallest-unique-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -268,4 +271,16 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/0739-daily-temperatures) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Srijansingh100/Bridgelabz-Traning-2Y/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
